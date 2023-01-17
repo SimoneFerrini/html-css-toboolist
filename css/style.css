@@ -27,9 +27,16 @@ header h1{
 
 nav{
     background-color: white;
-    margin:5% 15%;
+    margin:5% 15% 0.1% 15%;
     padding:2% 5% 2% 5%;
     line-height: 3em;
+}
+
+
+main{
+    background-color: white;
+    margin:0.1% 15% 5% 15%;
+    padding:4%
 }
 
 .button-format{
@@ -52,3 +59,4 @@ nav{
     border:solid lightgray;
 
 }
+
