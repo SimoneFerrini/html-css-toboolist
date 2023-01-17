@@ -41,6 +41,7 @@ main{
 
 
 ul{
+    list-style-type: none;
     padding: 0.5% 0.5% 0.5% 5%;
 }
 
@@ -103,4 +104,18 @@ li{
 
 .sales{
      background-color: yellowgreen;
+}
+
+.spunta{
+    color: green;
+    border-radius: 50%;
+    background-color: white;
+    border: solid 1px green;
+}
+
+.croce{
+    color:red;
+    border-radius: 50%;
+    background-color: white;
+    border: solid 1px red;
 }
