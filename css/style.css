@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color:lightgray;
+}
+
+
+header{
+    background-color: white;
+} 
+
+
+header img{
+    padding: 15px;
+}
+
+header h1{
+    display: inline;
+    vertical-align: 90%;
+    
+}
+
+nav{
+    background-color: white;
+    margin:5% 15%;
+    padding:2% 5% 2% 5%;
+    line-height: 3em;
+}
+
+.button-format{
+    padding: 1%;
+    font-weight: bold;
+    font-size: 1.3em;
+    border-radius: 15%;
+
+}
+
+#button-task{
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+}
+
+#button-section{
+    background-color: white;
+    color: lightgray;
+    border:solid lightgray;
+
+}
