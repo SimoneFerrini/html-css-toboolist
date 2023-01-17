@@ -39,6 +39,13 @@ main{
     padding:4%
 }
 
+
+ul{
+    padding: 0.5% 0.5% 0.5% 5%;
+}
+
+
+
 .button-format{
     padding: 1%;
     font-weight: bold;
@@ -60,3 +67,40 @@ main{
 
 }
 
+
+li{
+    margin:10px;
+}
+
+.label-format{
+    border-radius: 10%;
+    font-size: 0.7em;
+    color:white;
+    font-weight: bold;
+    border: none;
+    padding: 0.5%;
+}
+
+.editoriale{
+    background-color: dodgerblue;
+}
+
+.q1goals{
+    background-color:purple;
+}
+
+.recruiting{
+    background-color:seagreen;
+}
+
+.mobile{
+    background-color: orangered;
+}
+
+.website{
+     background-color: palevioletred;
+}
+
+.sales{
+     background-color: yellowgreen;
+}
